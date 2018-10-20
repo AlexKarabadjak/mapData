@@ -1,0 +1,22 @@
+#map{
+	float:left;
+	width:300px;
+	height:300px;
+}
+#info{
+	float:right;
+	width:800px;
+	height:800px;
+}
+#params{
+	width:400px;
+	height:200px;
+}
+canvas {
+	float:right;
+  border: 1px solid #aaa;
+  margin: 4px;
+}
+select{
+	width:200px;
+}
